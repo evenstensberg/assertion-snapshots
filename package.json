@@ -1,0 +1,12 @@
+{
+  "name": "assertion-snapshots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.mjs"
+  },
+  "keywords": [],
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "license": "MIT",
+  "description": "Diff based on snapshots in node"
+}
